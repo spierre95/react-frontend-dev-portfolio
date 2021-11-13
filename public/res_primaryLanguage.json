@@ -81,37 +81,61 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "iGotcha Media",
+        "companyUrl":"https://igotchamedia.com/",
+        "title": "Full Stack Web Developer",
+        "years": "October 2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Vue"
         ],
+        "mainTechIcon": "devicon-vuejs-plain",
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Vue",
+          "Electron",
+          "Node",
+          "React",
+          "Redux",
+          "D3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Inovva Media Inc.",
+        "companyUrl": "https://www.inovva.com/en/",
+        "title": "Web Developer",
+        "years": "December 2018 - September 2020",
         "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
           "PHP",
+          "Vue"
+        ],
+        "mainTechIcon": "devicon-php-plain",
+        "technologies": [
+          "HTML",
+          "CSS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Jquery",
+          "PHP",
+          "WordPress",
+          "Vue"
+        ]
+      },
+      {
+        "company": "Huddol Inc.",
+        "companyUrl": "https://www.huddol.com/",
+        "title": "Junior Front-end Web Developer",
+        "years": "August 2018 - November 2018",
+        "mainTech": [
+          "React"
+        ],
+        "mainTechIcon": "devicon-react-original",
+        "technologies": [
+          "Javacript",
+          "CSS",
+          "Sass",
+          "React",
+          "Redux"
         ]
       }
     ]
