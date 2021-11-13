@@ -173,6 +173,10 @@ header h1 {
 .polaroid img {
 	display: block;
 	max-width: 200px;
+
+	// custom css to fit profile picture in container 
+	object-fit: cover;
+    object-position: left;
 }
 
 .polaroid span {
